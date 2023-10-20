@@ -6,4 +6,4 @@ Once the project is installed import vuforia package before running.
 
 ## Video:
 
-[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://youtu.be/KIUNsJQ-k68)
+[![Now in Android: 55](https://youtu.be/KIUNsJQ-k68/maxresdefault.jpg)](https://youtu.be/KIUNsJQ-k68)
