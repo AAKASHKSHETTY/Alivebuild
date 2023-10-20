@@ -6,4 +6,5 @@ Once the project is installed import vuforia package before running.
 
 ## Video:
 
-https://youtu.be/KIUNsJQ-k68
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/KIUNsJQ-k68/0.jpg)](https://youtu.be/KIUNsJQ-k68)
