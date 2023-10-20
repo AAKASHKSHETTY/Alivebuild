@@ -6,4 +6,5 @@ Once the project is installed import vuforia package before running.
 
 ## Video:
 
-[![Now in Android: 55](https://youtu.be/KIUNsJQ-k68/maxresdefault.jpg)](https://youtu.be/KIUNsJQ-k68)
+[![Now Playing](<img width="1154" alt="arm" src="https://github.com/AAKASHKSHETTY/Alivebuild-AR_Project/assets/58876667/141bad94-4332-4eb3-9f6c-7e03d2bd7eea">
+)](https://youtu.be/KIUNsJQ-k68)
